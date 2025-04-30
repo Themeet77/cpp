@@ -4,4 +4,6 @@ int main(){
 
     cout<< "Hello World";
 
+    cout << "amit";
+
 }
