@@ -6,4 +6,7 @@ int main(){
 
     cout << "amit";
 
+    cout << "yadav";
+    
+
 }
